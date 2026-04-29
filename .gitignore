@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+master_dataset.csv
+inventory_summary.csv
+marketing_data.csv
